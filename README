@@ -1,0 +1,36 @@
+# Shiny and Leaflet integration
+
+Shiny is a R package for creating a interactive web applications. Leaflet is one of the most popular open-source JavaScript libraries for interactive maps.
+## Installation
+
+### Requirements
+* R
+* RStudio (or some other GUI for R)
+
+install.packages("shiny");
+install.packages("leaflet");
+
+## Usage
+
+```R
+library(shiny);
+library(leaflet);
+```
+## Support 
+
+You can find more on:
+https://shiny.rstudio.com/
+
+And:
+https://rstudio.github.io/leaflet/
+
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+This is open-source project. It can be used by anyone.
