@@ -19,7 +19,6 @@ library(shiny);
 library(leaflet);
 ```
 
-![](app.jpg)
 ## Support 
 
 You can find more on:
